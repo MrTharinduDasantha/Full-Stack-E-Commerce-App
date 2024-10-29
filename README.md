@@ -9,7 +9,7 @@ I will build the admin dashboard of this e-commerce website so that admin can up
 
 ## Demo
 
-By clicking this link you can see the demonstration of the full stack food ordering website.
+By clicking this link you can see the demonstration of the full e-commerce website.
 
 Link 👉 https://drive.google.com/file/d/1W-ZD8y4DFRQDnVxwMuDiP09ry0SEqn-G/view?usp=sharing 👈
 
