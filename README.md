@@ -55,7 +55,7 @@ npm start
 cd ../frontend
 npm run dev
 ```
-- Start the panel.
+- Start the admin panel.
 ```bash
 cd ../admin
 npm run dev
@@ -80,7 +80,6 @@ Ensure your Stripe account is configured to work in the environment you're testi
 ![image alt](https://github.com/MrTharinduDasantha/Full-Stack-E-Commerce-App/blob/afe0d2be35573fe3232b84865a3197cae46cd62f/Img%20-%207.png)
 ![image alt](https://github.com/MrTharinduDasantha/Full-Stack-E-Commerce-App/blob/afe0d2be35573fe3232b84865a3197cae46cd62f/Img%20-%208.png)
 ![image alt](https://github.com/MrTharinduDasantha/Full-Stack-E-Commerce-App/blob/afe0d2be35573fe3232b84865a3197cae46cd62f/Img%20-%209.png)
-![image alt](https://github.com/MrTharinduDasantha/Full-Stack-E-Commerce-App/blob/afe0d2be35573fe3232b84865a3197cae46cd62f/Img%20-%2010.png)
 ![image alt](https://github.com/MrTharinduDasantha/Full-Stack-E-Commerce-App/blob/afe0d2be35573fe3232b84865a3197cae46cd62f/Img%20-%2011.png)
 ![image alt](https://github.com/MrTharinduDasantha/Full-Stack-E-Commerce-App/blob/afe0d2be35573fe3232b84865a3197cae46cd62f/Img%20-%2012.png)
 ![image alt](https://github.com/MrTharinduDasantha/Full-Stack-E-Commerce-App/blob/afe0d2be35573fe3232b84865a3197cae46cd62f/Img%20-%2013.png)
